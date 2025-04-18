@@ -39,7 +39,7 @@ This project integrates **Machine Learning** and **Geospatial Analysis** to reco
 - Use these as input in your machine learning model
 
 
-![Soil Output](images/output1.png)
+![Soil Output](crop-recomend-ml-main/images/output1.png)
 
 ---
 
@@ -57,4 +57,4 @@ NGROK_URL = "https://your-ngrok-id.ngrok.io"
 
 ### 2️⃣ API Endpoint Testing in Thunder Clint 
 
-![Soil Output](images/output2.png)
+![Soil Output](crop-recomend-ml-main/images/output2.png)
